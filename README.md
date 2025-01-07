@@ -11,7 +11,7 @@ I'm also developing my expertise in machine learning concepts for prediction and
 
 I actively pursue personal growth and balance through activities like going to the gym, which helps me stay disciplined and goal-oriented. I’m also an avid PC gamer and movie enthusiast, where I enjoy strategy and storytelling. Exploring cafes has become a creative outlet for me, as I find inspiration in new environments and conversations, often sparking fresh perspectives for my projects.
 
-These interests keep me curious, adaptable, and open-minded—qualities, and if you'd like to learn more, check out my [LinkedIn!]([[https://website-name.com](https://www.linkedin.com/in/swooshoo/)](https://www.linkedin.com/in/swooshoo/))
+These interests keep me curious, adaptable, and open-minded—qualities, and if you'd like to learn more, let's talk on my [LinkedIn!]([[https://website-name.com](https://www.linkedin.com/in/swooshoo/)](https://www.linkedin.com/in/swooshoo/))
 
 ## 🏗️ Tools and Technolgies 
 
