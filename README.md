@@ -15,5 +15,5 @@ These interests keep me curious, adaptable, and open-minded—qualities, and if 
 
 ## 🏗️ Tools and Technolgies 
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,sqlite,mysql,matlab,r,docker,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,sqlite,mysql,figma,matlab,r,docker,nextjs&theme=light)](https://skillicons.dev)
 
