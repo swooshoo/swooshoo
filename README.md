@@ -1,4 +1,4 @@
-## 👋 Hello hello!
+## 👋 What doing?
 My name is Eliot, and I will be completing my Bachelor's in Mathematics from the University of California, Riverside.
 
 My strengths lie in **data analysis, visualization, and automation using Python and SQL.** I'm highly proficient in tools like **Streamlit** for interactive data applications and dashboards, as well as Pandas, NumPy, and Matplotlib for data manipulation and visualization.
