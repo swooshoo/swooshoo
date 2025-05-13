@@ -1,11 +1,13 @@
 ## 👋 What doing?
 My name is Eliot, and I will be completing my Bachelor's in Mathematics from the University of California, Riverside.
 
-My strengths lie in **data analysis, visualization, and automation using Python and SQL.** I'm highly proficient in tools like **Streamlit** for interactive data applications and dashboards, and Python development/libraries for data manipulation and visualization.
+My strengths lie in **data analysis, visualization, and automation using Python and SQL.** I'm highly proficient in tools like **Streamlit, PythonGUI, and Dash** for interactive data applications and dashboards, and Python development/libraries for data manipulation and visualization.
 
-I have experience working with **SQL databases for data extraction and analysis**, and I'm skilled in **data cleaning, transformation, and exploratory analysis** to uncover insights. Additionally, I’m familiar with **experiment design and A/B testing principles**, making me effective in supporting data-driven decision-making.
+I have experience working with **SQL databases for data extraction and analysis**, and I'm skilled in **data cleaning, transformation, and exploratory analysis** to uncover insights. Additionally, I’m familiar with **experiment design and A/B testing principles**, making me effective in supporting data-driven decision-making. 
 
-I'm also developing my expertise in machine learning concepts for prediction and classification tasks using libraries like **scikit-learn**. My focus on clear data storytelling and automation through tools like Streamlit helps streamline reporting and enhance business decision-making.
+Some of my projects required I spend 70% of my time getting user feedback and pitching my ideas to potential users, from close friends & family to local businesses and corporate entities. One example is cold-calling and driving to local emergency shelters, firehouses, and churches gathering user-experience data for my inventory tracker, LAyudar.
+
+I enjoy putting my ideas and passions into actionable and usable code, and would love to work in an environment that challenges me further. 
 
 ## 💭 Outside of Tech
 
