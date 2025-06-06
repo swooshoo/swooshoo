@@ -1,7 +1,7 @@
 ## 👋 What doing?
 My name is Eliot, and I will be completing my Bachelor's in Mathematics from the University of California, Riverside.
 
-My strengths lie in **data analysis, visualization, and automation using Python and SQL.** I'm highly proficient in tools like **Streamlit, PythonGUI, and Dash** for interactive data applications and dashboards, and Python development/libraries for data manipulation and visualization.
+My strengths lie in **data analysis, visualization, and dashboard development using Python and SQL.** I'm highly proficient in tools like **Streamlit, PythonGUI, and Dash** for interactive data applications and dashboards, and Python development/libraries for data manipulation and visualization.
 
 I have experience working with **SQL databases for data extraction and analysis**, and I'm skilled in **data cleaning, transformation, and exploratory analysis** to uncover insights. Additionally, I’m familiar with **experiment design and A/B testing principles**, making me effective in supporting data-driven decision-making. 
 
