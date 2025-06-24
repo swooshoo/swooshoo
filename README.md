@@ -1,5 +1,5 @@
 ## 👋 What doing?
-My name is Eliot, and I will be completing my Bachelor's in Mathematics from the University of California, Riverside.
+My name is Eliot, and I've recently completed a Bachelor's in Mathematics @ UC Riverside, 2025.
 
 My strengths lie in **data analysis, visualization, and dashboard development using Python and SQL.** I'm highly proficient in tools like **Streamlit, PythonGUI, and Dash** for interactive data applications and dashboards, and Python development/libraries for data manipulation and visualization.
 
