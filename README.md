@@ -13,7 +13,7 @@ I enjoy putting my ideas and passions into actionable and usable code, and would
 
 Anything that involves keeping in contact with friends and meeting new people. I'm an introvert at heart but the truth is that a core of human experiences is meeting others and sharing stories and experiences.
 
-These interests keep me curious, adaptable, and open-minded—qualities, and if you'd like to learn more, let's talk on my [LinkedIn!]([[https://website-name.com](https://www.linkedin.com/in/swooshoo/)](https://www.linkedin.com/in/swooshoo/))
+Let's talk on my [LinkedIn!]([[https://website-name.com](https://www.linkedin.com/in/swooshoo/)](https://www.linkedin.com/in/swooshoo/))
 
 ## 🏗️ Tools and Technolgies 
 
